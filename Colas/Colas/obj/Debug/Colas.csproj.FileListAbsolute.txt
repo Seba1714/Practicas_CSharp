@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\Colas\Colas\bin\Debug\Colas.exe.config
+C:\Users\Usuario\source\repos\Colas\Colas\bin\Debug\Colas.exe
+C:\Users\Usuario\source\repos\Colas\Colas\bin\Debug\Colas.pdb
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.Form1.resources
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.exe
+C:\Users\Usuario\source\repos\Colas\Colas\obj\Debug\Colas.pdb
